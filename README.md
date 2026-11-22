@@ -1,2 +1,8 @@
-# advent-of-code-2026
-Advent of Code 2025 - solutions with Kotlin
+# Advent of Code 2026
+
+Solutions with Kotlin.
+
+## Calendar of puzzles
+
+| Puzzle | Solution | SLOC | Themes |
+|--------|----------|------|--------|
